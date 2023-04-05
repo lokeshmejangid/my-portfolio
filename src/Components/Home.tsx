@@ -57,7 +57,7 @@ const Home = () => {
         <button className='contactBtn' onClick={handleContact}>Hire Me</button>
       </Grid>
       <Grid item xs={5}>
-        <img src='./assests/images/home.jpg' alt='home' height="350px" width="100%"/>
+        <img src='./my-portfolio/assests/images/home.jpg' alt='home' height="350px" width="100%"/>
       </Grid>
     </Container>
   )

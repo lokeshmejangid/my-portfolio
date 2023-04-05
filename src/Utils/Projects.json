@@ -2,7 +2,7 @@
     {
         "id": 1,
         "projectTitle": "Online Education Learning",
-        "proImage": "./assests/images/inprocess.png",
+        "proImage": "./my-portfolio/assests/images/inprocess.png",
         "proDes": "A platform designed to provide accessible, convenient, and high-quality education to everyone, anywhere and anytime. Our app offers a wide range of courses in various subjects. Our courses are carefully curated and taught by experienced educators who are passionate about teaching and ensuring that you understand the course content.",
         "proUrl": "",
         "technology": "React Js, Type-script, Styled-Components"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "projectTitle": "Assets Swap",
-        "proImage": "./assests/images/assests.png",
+        "proImage": "./my-portfolio/assests/images/assests.png",
         "proDes": "A platform designed for cryptocurrency enthusiasts and investors to participate in exciting auctions for unique and valuable crypto assets. Our website offers a range of crypto assets, including tokens, NFTs, and other digital assets, that can be acquired through a bidding process.",
         "proUrl": "https://astcoin.in/",
         "technology": "React Js, Material UI"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "projectTitle": "Audit Tool (Destop Application)",
-        "proImage": "./assests/images/audit.jpg",
+        "proImage": "./my-portfolio/assests/images/audit.jpg",
         "proDes": "London School Of Hygiene & Tropical Medicine. A platform designed to provide personalized medicine and treatment suggestions based on your answers to health-related questions. Our app offers a convenient and accessible way to receive recommendations for medicines and treatments that are tailored to your individual needs and condition.",
         "proUrl": "",
         "technology": "Electron Js, Type-script, Material UI"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "projectTitle": "Electro Trade",
-        "proImage": "./assests/images/electro.png",
+        "proImage": "./my-portfolio/assests/images/electro.png",
         "proDes": "App and web portal designed to connect businesses and streamline the process of buying and selling products and services. Our platform offers a range of features and tools to help businesses manage their supply chains, connect with suppliers and buyers, and streamline their operations.",
         "proUrl": "",
         "technology": "React Js, Type-script, Styled-Components"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "projectTitle": "My Auctions",
-        "proImage": "./assests/images/myauctions.png",
+        "proImage": "./my-portfolio/assests/images/myauctions.png",
         "proDes": "A platform designed for diamond enthusiasts and investors to participate in exciting auctions for high-quality, certified diamonds. Our website offers a range of diamonds, including rare and unique pieces, that can be acquired through a bidding process.",
         "proUrl": "https://www.myauctions.jp/",
         "technology": "React Js, Type-script, Styled-Components"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "projectTitle": "ApCreate",
-        "proImage": "./assests/images/apcrate.png",
+        "proImage": "./my-portfolio/assests/images/apcrate.png",
         "proDes": "A platform designed for consumers to easily browse and purchase a wide range of products from the comfort of their own homes. Our app offers a user-friendly interface with a variety of features and tools that make shopping convenient and enjoyable.",
         "proUrl": "",
         "technology": "Android with core java"
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "projectTitle": "Dronation",
-        "proImage": "./assests/images/dronenation.png",
+        "proImage": "./my-portfolio/assests/images/dronenation.png",
         "proDes": "A platform designed to connect drone enthusiasts and provide a community for sharing information, experiences, and tips related to drone flying. Our social network offers a range of features and tools to help users connect with other drone flyers and stay up to date on the latest news and developments in the drone industry.",
         "proUrl": "",
         "technology": "Android with core java"
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "projectTitle": "Truck Bux",
-        "proImage": "./assests/images/truck.png",
+        "proImage": "./my-portfolio/assests/images/truck.png",
         "proDes": "Online Food ordering system is a process in which one can order various foods and beverages from some local restaurant and hotels through the use of internet, just by sitting at home or any place. And the order is delivered to the told location.",
         "proUrl": "https://play.google.com/store/apps/details?id=com.truckbuxllc.tbuser&hl=en_US",
         "technology": "Android with core java"
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "projectTitle": "Onboard",
-        "proImage": "./assests/images/onboard.png",
+        "proImage": "./my-portfolio/assests/images/onboard.png",
         "proDes": "Passengers use this app to request a ride and drivers uses this app to register their vehicle to this app and for fulfilling the service.",
         "proUrl": "",
         "technology": "Android with core java"
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "projectTitle": "Samar Heights Infra",
-        "proImage": "./assests/images/samar.png",
+        "proImage": "./my-portfolio/assests/images/samar.png",
         "proDes": "The company provides equipment for every construction task i.e. mining, rock blasting, rock breaking and loading, crashing, material lifting and handling. Ecological impact of pipeline installation and the installation methods, trenchless or otherwise, are inextricably linked. Environmentally sensitive areas such as palustrine wetlands, estuaries etc...",
         "proUrl": "https://samarheightsinfra.com/",
         "technology": "Wordpress"
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "projectTitle": "Shree Om Industries",
-        "proImage": "./assests/images/shreeom.png",
+        "proImage": "./my-portfolio/assests/images/shreeom.png",
         "proDes": "Shree Om Industries is a one stop destination for acquiring pure and natural minerals products and compounds. Shree Om Industries is a one stop destination for acquiring pure and natural minerals products and compounds. Our company has earned the reputation of a prestigious manufacturer, supplier and exporter of Hematite Powder, Silica Sand etc...",
         "proUrl": "https://shreeomindustries.com/",
         "technology": "Wordpress"
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "projectTitle": "SBF",
-        "proImage": "./assests/images/sbf.png",
+        "proImage": "./my-portfolio/assests/images/sbf.png",
         "proDes": "SBF continue to strive for excellence .We are the team of committed and dedicated professionals who rigidly work according to the guidelines and specifications laid by Ministry of Water Resources, Irrigation and Ministry of Railways. Our expertise, knowledge and experience make us the best choice for all the fabrication needs.",
         "proUrl": "https://www.sbfinfra.com/",
         "technology": "Wordpress"
