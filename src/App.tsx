@@ -1,26 +1,46 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from 'react'
 
-function App() {
+import {BrowserRouter, Routes, Route} from 'react-router-dom'
+import { ThemeProvider } from 'styled-components'
+import Home from './Components/Home'
+import Preloader from './Components/Preloader'
+import { GlobalStyle } from './GlobalStyle'
+import { Theme } from './Theme';
+import Contact from './Pages/Contact'
+import About from './Pages/About'
+import Header from './Components/Header'
+import Footer from './Components/Footer'
+import Projects from './Pages/Projects'
+
+const App = () => {
+  const [load, setLoad] = useState<boolean>(true);
+
+  /**
+   * Set Preloader value
+   */
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setLoad(false);
+    }, 1200);
+
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    <ThemeProvider theme={Theme}>
+      <BrowserRouter>
+        <GlobalStyle />
+        <Preloader load = {load} />
+        <Header />
+        <Routes>
+          <Route path='/' element={ <Home /> } />
+          <Route path='/contact' element={ <Contact /> } />
+          <Route path='/about' element={ <About /> } />
+          <Route path='/projects' element={ <Projects /> } />
+        </Routes>
+      </BrowserRouter>
+    </ThemeProvider>
+  )
 }
 
-export default App;
+export default App
